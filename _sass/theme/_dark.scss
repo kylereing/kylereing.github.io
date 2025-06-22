@@ -13,11 +13,13 @@ $background                 : #17181c;
 $background-light           : mix(#fff, $background, 80%);
 $background-lighter         : mix(#fff, $background, 90%);
 $text-gray                  : mix(#000, $gray, 10%);
-$link                       : #0ea1c5;
+// $link                       : #0ea1c5;
+$link                       : #8fc0a9;
 $link-dark                  : mix(#000, $link, 25%);
 $link-light                 : mix(#fff, $link, 25%);
 $text                       : #aeb9c4;
 $header                     : #246c82;
+$header2                    : #249388;
 
 
 /* Color codes used for the site */
@@ -55,5 +57,6 @@ html[data-theme="dark"] {
     --global-text-color                 : #{$text};
     --global-text-color-light           : #{$light-gray};
     --global-thead-color                : #{$background-lighter};
-    --global-h1-color                    : #{$header};
+    --global-h1-color                   : #{$header};
+    --global-h2-color                   : #{$header2};
 }
