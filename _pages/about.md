@@ -7,50 +7,29 @@ redirect_from:
   - /about.html
 ---
 
-Hey there. I'm an independent researcher on the job market, I recently got my PhD from USC. I study interpretability and decomposition of neural representations.
+Hey there. I'm an independent researcher on the job market([CV](google.com)), I recently got my PhD from USC. I study interpretability and decomposition of neural representations.
 
-Research Topics
+Some Work
 ======
+- Spectral tool for mechanistic interpretability and circuit discovery ([ASp](google.com))
+- 
 
-Circuit Discovery and Mechanistic Interpretability
-------
-sdflkjs df
-
-Deep Learning Foundations
-------
-sdflkjs df
-
-
-Other Research
+Some Writing
 ======
+- AI alignment [blah](google.com)
+- Narrative in a post truth era [blah] (google.com)
+- Grandmother neurons and ontological maps [blah](google.com)
 
-AI Alignment
-------
-sdflkjs df
-
-Neural Coding
-------
-sdflkjs df
-
-
-Other Not Research
+Papers I like
 ======
+- Something
 
-Music
-------
-sdflkjs df
-
-Gaming
-------
-sdflkjs df
-
-Cooking
-------
-sdflkjs df
-
-Mental Health
-------
-sdflkjs df
+Other
+======
+- Music
+- Gaming
+- Cooking
+- Mental Health
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
